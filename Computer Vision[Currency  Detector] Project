@@ -1,0 +1,2 @@
+In this Project, main goal is to detect currency note of Pakistan. if we upload any currency note of Pakistan, it will detect that note and show flag of Pakistan and display a message that it's a Pakistani 
+currency note. If we upload any other image or note of other country, it will not detect that and showed a message that it's not a Pakistani currency note.
